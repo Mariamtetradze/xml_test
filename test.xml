@@ -5,7 +5,7 @@
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Honda t5</name>
+        <name>Honda test5</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
