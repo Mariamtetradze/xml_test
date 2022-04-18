@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+    <item>
+        <sku>12</sku>
+        <attribute_set_code>Car</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Used Cars</categories>
+        <name>Honda t4</name>
+        <price>19500</price>
+        <qty>5</qty>
+        <visibility>Catalog, Search</visibility>
+        <make>Audi</make>
+        <year>2000</year>
+        <vehicle_id>10261537 / E890223095</vehicle_id>
+        <country>Estonia</country>
+        <dealer>Møller Auto Pärnu</dealer>
+        <first_registered>04/19/2022</first_registered>
+        <mileage>89728</mileage>
+        <license_plate>498BMG</license_plate>
+        <vin_code>SALLSAAG4BA291712</vin_code>
+        <technical_inspection>04/19/2022</technical_inspection>
+        <displacement>3000 cm³</displacement>
+        <fuel>diesel</fuel>
+        <power>245</power>
+        <car_color>red</car_color>
+        <body_style>wagon</body_style>
+        <doors>4</doors>
+        <exchange>Yes</exchange>
+        <drivetrain_suspension>four-wheel</drivetrain_suspension>
+        <gearbox>Automatic</gearbox>
+        <safety_and_security>Power steering,ABS brakes,Electromechanical parking brake,Seat belts in front with tensioners</safety_and_security>
+        <assistant_systems>Cruise control,Rearview camera</assistant_systems>
+        <tyres_and_wheels>Light alloy wheels,All season tires</tyres_and_wheels>
+        <lights>Fog lights front,Separate daytime running lights,Xenon lights</lights>
+        <multimedia>Radio,Harman Kardon sound system,AUX-IN jack,CD/MP3 playback</multimedia>
+        <seats>Leather seats,Electrically adjustable seats,Front armrest</seats>
+        <interior_comfort>Leather steering wheel,Leather gearshift knob,Electrically adjustable mirrors,Multifunctional steering wheel</interior_comfort>
+        <heating_climatisation>Automatic air conditioning system,Glove box with cooling</heating_climatisation>
+        <other_equipment>Metallic paint,Mud flaps,Roof railings</other_equipment>
+        <lines_pakages>Sport,Highline,Atraction</lines_pakages>
+        <product_websites>base</product_websites>
+        <base_image>https://i.ibb.co/SKjWNJv/3.jpg</base_image>
+        <additional_images>https://i.ibb.co/TqJc9KQ/2021-Honda-CR-V-VTi-LX-AWD-SUV-red-1001x565p-1.jpg,https://i.ibb.co/dWLJJ4T/honda-2018-cr-v-33.jpg</additional_images>
+    </item>
+</Items>
