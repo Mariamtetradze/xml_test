@@ -5,20 +5,21 @@
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Honda test5</name>
+        <name>Honda test1</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
         <make>Audi</make>
+        <model>V90</model>
         <year>2000</year>
         <vehicle_id>10261537 / E890223095</vehicle_id>
         <country>Estonia</country>
         <dealer>Møller Auto Pärnu</dealer>
-        <first_registered>04/19/2022</first_registered>
+        <first_registered>01/2024</first_registered>
         <mileage>89728</mileage>
         <license_plate>498BMG</license_plate>
         <vin_code>SALLSAAG4BA291712</vin_code>
-        <technical_inspection>04/19/2022</technical_inspection>
+        <technical_inspection>01/2024</technical_inspection>
         <displacement>3000 cm³</displacement>
         <fuel>diesel</fuel>
         <power>245</power>
