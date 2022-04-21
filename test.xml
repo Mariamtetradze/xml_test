@@ -17,6 +17,7 @@
         <dealer>Møller Auto Pärnu</dealer>
         <first_registered>01/2024</first_registered>
         <mileage_search>20000</mileage_search>
+        <mileage> 20000 </mileage>
         <license_plate>498BMG</license_plate>
         <vin_code>SALLSAAG4BA291712</vin_code>
         <technical_inspection>01/2024</technical_inspection>
@@ -28,6 +29,9 @@
         <doors>4</doors>
         <exchange>Yes</exchange>
         <drivetrain_suspension>four-wheel</drivetrain_suspension>
+        <drivetrain_search> four-wheel </drivetrain_search>
+        <gearbox_search>Manual</gearbox_search>
+        <power_search>150</power_search>
         <gearbox>Automatic</gearbox>
         <safety_and_security>Power steering,ABS brakes,Electromechanical parking brake,Seat belts in front with tensioners</safety_and_security>
         <assistant_systems>Cruise control,Rearview camera</assistant_systems>
