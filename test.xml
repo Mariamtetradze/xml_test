@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test02</sku>
+        <sku>Test03</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test2</name>
+        <name>Test3</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
         <make>Skoda</make>
         <model>V90</model>
-        <year>2016</year>
+        <year>2015</year>
         <vehicle_id>10261537 / E890223095</vehicle_id>
         <country>Estonia</country>
         <dealer>Møller Auto Pärnu</dealer>
