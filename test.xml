@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test12</sku>
+        <sku>Test13</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test12</name>
+        <name>Test13</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
@@ -16,8 +16,8 @@
         <country>Estonia</country>
         <dealer>Møller Auto Pärnu</dealer>
         <first_registered>01/2024</first_registered>
-        <mileage_search>20100</mileage_search>
-        <mileage>20100</mileage>
+        <mileage_search>100</mileage_search>
+        <mileage>100</mileage>
         <license_plate>498BMG</license_plate>
         <vin_code>SALLSAAG4BA291712</vin_code>
         <technical_inspection>01/2024</technical_inspection>
