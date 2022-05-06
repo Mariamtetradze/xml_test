@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test08</sku>
+        <sku>Test02</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test8</name>
+        <name>Test2</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
