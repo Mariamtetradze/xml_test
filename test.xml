@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test05</sku>
+        <sku>Test06</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test5</name>
+        <name>Test6</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
-        <make>Forester</make>
+        <make>Skoda</make>
         <model>V90</model>
         <year>2016</year>
         <vehicle_id>10261537 / E890223095</vehicle_id>
         <country>Estonia</country>
         <dealer>Møller Auto Pärnu</dealer>
         <first_registered>01/2024</first_registered>
-        <mileage_search>192620</mileage_search>
+        <mileage_search>191620</mileage_search>
         <mileage>192620</mileage>
         <license_plate>498BMG</license_plate>
         <vin_code>SALLSAAG4BA291712</vin_code>
