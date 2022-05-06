@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test07</sku>
+        <sku>Test08</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test7</name>
+        <name>Test8</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
         <make>Honda</make>
         <model>V90</model>
-        <year>2014</year>
+        <year>2013</year>
         <vehicle_id>10261537 / E890223095</vehicle_id>
         <country>Estonia</country>
         <dealer>Møller Auto Pärnu</dealer>
