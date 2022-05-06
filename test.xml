@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test06</sku>
+        <sku>Test07</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test6</name>
+        <name>Test7</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
-        <make>Skoda</make>
+        <make>Honda</make>
         <model>V90</model>
-        <year>2016</year>
+        <year>2014</year>
         <vehicle_id>10261537 / E890223095</vehicle_id>
         <country>Estonia</country>
         <dealer>Møller Auto Pärnu</dealer>
         <first_registered>01/2024</first_registered>
-        <mileage_search>191620</mileage_search>
-        <mileage>192620</mileage>
+        <mileage_search>132133</mileage_search>
+        <mileage>132133</mileage>
         <license_plate>498BMG</license_plate>
         <vin_code>SALLSAAG4BA291712</vin_code>
         <technical_inspection>01/2024</technical_inspection>
@@ -30,9 +30,9 @@
         <exchange>Yes</exchange>
         <drivetrain_suspension>four-wheel</drivetrain_suspension>
         <drivetrain_search> four-wheel </drivetrain_search>
-        <gearbox_search>Manual</gearbox_search>
+        <gearbox_search>Automatic</gearbox_search>
         <power_search>150</power_search>
-        <gearbox>Automatic,DSG</gearbox>
+        <gearbox>Automatic</gearbox>
         <safety_and_security>Power steering,ABS brakes,Electromechanical parking brake,Seat belts in front with tensioners</safety_and_security>
         <assistant_systems>Cruise control,Rearview camera</assistant_systems>
         <tyres_and_wheels>Light alloy wheels,All season tires</tyres_and_wheels>
