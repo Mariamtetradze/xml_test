@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
     <item>
-        <sku>Test03</sku>
+        <sku>Test04</sku>
         <attribute_set_code>Car</attribute_set_code>
         <product_type>simple</product_type>
         <categories>Default Category/Used Cars</categories>
-        <name>Test3</name>
+        <name>Test4</name>
         <price>19500</price>
         <qty>5</qty>
         <visibility>Catalog, Search</visibility>
@@ -32,7 +32,7 @@
         <drivetrain_search> four-wheel </drivetrain_search>
         <gearbox_search>Automatic</gearbox_search>
         <power_search>150</power_search>
-        <gearbox>Automatic</gearbox>
+        <gearbox>Automatic,DSG</gearbox>
         <safety_and_security>Power steering,ABS brakes,Electromechanical parking brake,Seat belts in front with tensioners</safety_and_security>
         <assistant_systems>Cruise control,Rearview camera</assistant_systems>
         <tyres_and_wheels>Light alloy wheels,All season tires</tyres_and_wheels>
